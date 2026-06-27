@@ -34,4 +34,4 @@ The NeuralQuant Terminal was designed to demonstrate high-frequency data ingesti
 4.  **Run Frontend:** `cd quant-dashboard && npm run dev`
 
 ---
-*Built for [Insert Graduation Year] Computer Engineering portfolio.*
+*Built for 2028 Computer Engineering portfolio.*
