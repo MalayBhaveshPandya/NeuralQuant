@@ -1,0 +1,11 @@
+alpaca:
+  api:
+    key: "${ALPACA_API_KEY}"
+    secret: "${ALPACA_API_SECRET}"
+    base-url: "https://paper-api.alpaca.markets"
+    stream-url: "wss://stream.data.alpaca.markets/v2/iex"
+
+gemini:
+  api:
+    key: "${GEMINI_API_KEY}"
+    url: "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key="
